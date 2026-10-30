@@ -1,9 +1,9 @@
-## alias — Patrick
+# Patrick
 
-Patrick writes code.
+Patrick is a programmer.
 
-Backend and systems development pays the bills; offensive security and malware development is where his curiosity actually lives. Not a phase or a deliberate direction, currently deepening.
+Backend and systems work covers the bills. What really holds his attention is offensive security and malware development. He didn't plan it, it isn't a phase, and the interest keeps getting deeper.
 
-Most of the time he writes C.
+His language is C, most of the time.
 
-Public work exists, but it's tied to a separate identity.
+There is public work, but it lives under a different identity.
